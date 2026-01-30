@@ -1,7 +1,4 @@
 <!-- Banner / MasterHead -->
-<p align="center">
-  <img src="https://www.orientsoftware.com/Themes/Content/Images/blog/2024-07-30/flutter-developer-thumbnail.jpg" alt="MasterHead" style="border-radius: 10px;" width="95%" height="280"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Shivank Tyagi</h1>
 <h3 align="center">🚀 Passionate Indian Flutter & Firebase dev on a mission to master full-stack + AI.</h3>
